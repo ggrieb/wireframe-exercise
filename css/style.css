@@ -1,0 +1,47 @@
+* {
+  font-family: Helvetica, sans-serif;
+}
+
+header, footer {
+  background: #333;
+  height: 100px;
+}
+
+header img {
+  margin: top 15px;
+  margin: right 75px;
+}
+
+header img {
+  float: left;
+  margin-top: 15px;
+  margin-right: 60px;
+}
+
+nav li {
+  display: inline;
+  margin-top: 50px;
+  margin-right: 60px;
+}
+
+a {
+  text-decoration: none;
+  color: #888;
+}
+
+main {
+  margin: 0px auto;
+  width: 960px;
+}
+
+#middle-row ul li{
+  display: inline-block;
+}
+
+#FSH {
+  overflow: scroll;
+}
+
+button {
+  float: right;
+}
